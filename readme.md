@@ -16,3 +16,6 @@ cond(no)->op
 
 git is a free software
 
+git tracks the change of file
+
+git don't tracks the change of file
